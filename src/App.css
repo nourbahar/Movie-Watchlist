@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.watched {
+  text-decoration: line-through;
+}
+
+.not-watched {
+  color: rgb(34, 232, 120);
+}
